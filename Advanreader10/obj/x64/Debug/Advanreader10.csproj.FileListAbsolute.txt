@@ -1,0 +1,9 @@
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\bin\x64\Debug\Advanreader10.exe.config
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\bin\x64\Debug\Advanreader10.exe
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\bin\x64\Debug\Advanreader10.pdb
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\bin\x64\Debug\MercuryAPI.dll
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\obj\x64\Debug\Advanreader10.csprojResolveAssemblyReference.cache
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\obj\x64\Debug\Advanreader10.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\obj\x64\Debug\Advanreader10.csproj.CopyComplete
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\obj\x64\Debug\Advanreader10.exe
+C:\Users\Anna\source\repos\Advanreader10\Advanreader10\obj\x64\Debug\Advanreader10.pdb
