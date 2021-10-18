@@ -1,6 +1,6 @@
 # AdvanReader-10 C\# Examples
 
-&#8658; Please check our wiki: [http://wiki.keonn.com/AdvanReader-m1-10/advanreader-m10-csharp-examples](http://wiki.keonn.com/AdvanReader-m1-10/advanreader-m10-csharp-examples)
+&#8658; Please check our wiki: [https://wiki.keonn.com/rfid-components/advanreader-10-1-port/advanreader-m10-c-examples](https://wiki.keonn.com/rfid-components/advanreader-10-1-port/advanreader-m10-c-examples)
 
 These examples use the ThingMagic C\# SDK to create two programs that connect to and AdvanReader-10 and show the read tag data.
 
